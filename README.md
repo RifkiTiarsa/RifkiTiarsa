@@ -5,7 +5,7 @@ I'm a jr.backend developer specializing in building robust and scalable web appl
 - **Languages**: Go
 - **Frameworks**: Gin
 - **Databases**: PostgreSQL, MySQL
-- **Tools**: Docker, Git
+- **Tools**: Git
 
 ## Featured Projects
 - [Project Name](https://github.com/username/project-name): Short description of the project.
