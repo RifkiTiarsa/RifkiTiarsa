@@ -4,14 +4,10 @@ I'm a jr.backend developer specializing in building robust and scalable web appl
 
 - **Languages**: Go
 - **Frameworks**: Gin
-- **Databases**: PostgreSQL, MySQL
+- **Databases**: PostgreSQL, MySQL, Redis
 - **Tools**: Git
 
-## Featured Projects
-- [Project Name](https://github.com/username/project-name): Short description of the project.
-- [Another Project](https://github.com/username/another-project): Short description of the project.
-
 ## Contact Me
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/rifki-tiarsa)
 - [Email](tiarsarifki@gmail.com)
 
